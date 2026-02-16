@@ -68,19 +68,19 @@ design - Testing - Documentation
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](src/home.png)
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](src/login.png)
 
 ### 📋 Registration Page
-![Display Page](screenshots/registration.png)
+![Display Page](src/registration.png)
 
 ### ➕ Add New Policy
-![Add Policy](screenshots/add-policy.png)
+![Add Policy](src/add-policy.png)
 
 ### 📋 Contact Us Page
-![Display Page](screenshots/contact.png)
+![Display Page](src/contact.png)
 
 ------------------------------------------------------------------------
 
